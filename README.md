@@ -9,6 +9,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Features
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ef9d8821e614175a9148fbc8850ec11)](https://app.codacy.com/gh/khaja-moiz/RESULTSJNTUH?utm_source=github.com&utm_medium=referral&utm_content=khaja-moiz/RESULTSJNTUH&utm_campaign=Badge_Grade)
+
 * Grades of All Semesters of Particular Student - Provide your roll number in the inbox and click on Results. The Results of all the semesters will be displayed. The Result of particular semester includes both regular and all suplementary exams.
 * Grades of All Students of Particular Semester - Provide the specific range of Roll Numbers and select the semester. Results of the Roll numbers of specific Range are displayed.
 
